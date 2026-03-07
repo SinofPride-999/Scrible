@@ -1,6 +1,6 @@
 [package]
 name = "scrible"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2021"
 authors = ["Jhay <jhay@luxid.dev>"]
 description = "A minimal light-weight keyboard-driven terminal text editor built with Ratatui"
