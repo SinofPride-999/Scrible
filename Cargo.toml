@@ -1,0 +1,29 @@
+[package]
+name = "scribble"
+version = "1.0.0"
+edition = "2021"
+authors = ["Scribble Editor"]
+description = "A minimal light-weight keyboard-driven terminal text editor built with Ratatui"
+license = "MIT"
+repository = "https://github.com/SinofPride-999/scribble"
+readme = "README.md"
+keywords = ["editor", "tui", "ratatui", "cli"]
+categories = ["command-line-utilities", "text-editors"]
+
+[[bin]]
+name = "scribble"
+path = "src/main.rs"
+
+[dependencies]
+ratatui = "0.28"
+crossterm = { version = "0.28", features = ["event-stream"] }
+anyhow = "1.0"
+unicode-width = "0.1"
+unicode-segmentation = "1.10"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
