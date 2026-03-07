@@ -2,10 +2,10 @@
 name = "scribble"
 version = "1.0.0"
 edition = "2021"
-authors = ["Jhay <jhaycodes999@gmail.com>"]
+authors = ["Jhay <jhay@luxid.dev>"]
 description = "A minimal light-weight keyboard-driven terminal text editor built with Ratatui"
 license = "MIT"
-repository = "https://github.com/SinofPride-999/scribble"
+repository = "https://github.com/SinofPride-999/Scribble"
 readme = "README.md"
 keywords = ["editor", "tui", "ratatui", "cli"]
 categories = ["command-line-utilities", "text-editors"]
