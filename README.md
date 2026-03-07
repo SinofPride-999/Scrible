@@ -1,6 +1,6 @@
-# Scribble
+# Scrible
 
-**Scribble** is a minimal terminal text editor written in Rust.
+**Scrible** is a minimal terminal text editor written in Rust.
 It is lightweight, keyboard-driven, and designed to run entirely inside the terminal.
 
 Scribble focuses on simplicity and speed while providing useful editing features like highlighting, clipboard actions, and undo/redo.
@@ -66,7 +66,7 @@ If the file does not exist, Scribble will create it when you save.
 
 ## Philosophy
 
-Scribble follows a few simple principles:
+Scrible follows a few simple principles:
 
 * **Keyboard first**
 * **Minimal interface**
@@ -82,8 +82,8 @@ It is designed for users who prefer quick edits without leaving the terminal.
 Clone the repository:
 
 ```bash
-git clone https://github.com/SinofPride-999/Scribble
-cd Scribble
+git clone https://github.com/SinofPride-999/Scrible
+cd Scrible
 ```
 
 Build the project:
@@ -101,7 +101,7 @@ cargo run -- filename.txt
 Or:
 
 ```bash
-./target/release/scribble filename.txt
+./target/release/scrible filename.txt
 ```
 
 ---

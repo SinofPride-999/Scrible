@@ -1,6 +1,6 @@
-# Contributing to Scribble
+# Contributing to Scrible
 
-Thank you for your interest in contributing to **Scribble**!
+Thank you for your interest in contributing to **Scrible**!
 
 We welcome bug fixes, improvements, documentation updates, and new features.
 
@@ -12,7 +12,7 @@ We welcome bug fixes, improvements, documentation updates, and new features.
 2. Clone your fork
 
 ```bash
-git clone https://github.com/SinofPride-999/Scribble
+git clone https://github.com/SinofPride-999/Scrible
 cd scribble
 ```
 
@@ -131,5 +131,5 @@ We aim to keep Scribble:
 
 ## Thank You
 
-Every contribution helps improve Scribble.
+Every contribution helps improve Scrible.
 Thank you for taking the time to contribute!

@@ -22,7 +22,7 @@ fn print_help() {
         env!("CARGO_PKG_VERSION")
     );
     println!("USAGE:");
-    println!("  scribble <filename>\n");
+    println!("  {} <filename>\n", env!("CARGO_PKG_NAME"));
     println!("OPTIONS:");
     println!("  -h, --help       Show this help message");
     println!("  -v, --version    Show version\n");
