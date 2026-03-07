@@ -1,17 +1,17 @@
 [package]
-name = "scribble"
+name = "scrible"
 version = "1.0.0"
 edition = "2021"
 authors = ["Jhay <jhay@luxid.dev>"]
 description = "A minimal light-weight keyboard-driven terminal text editor built with Ratatui"
 license = "MIT"
-repository = "https://github.com/SinofPride-999/Scribble"
+repository = "https://github.com/SinofPride-999/Scrible"
 readme = "README.md"
 keywords = ["editor", "tui", "ratatui", "cli"]
 categories = ["command-line-utilities", "text-editors"]
 
 [[bin]]
-name = "scribble"
+name = "scrible"
 path = "src/main.rs"
 
 [dependencies]
