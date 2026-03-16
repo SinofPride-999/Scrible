@@ -36,7 +36,7 @@ cargo install scrible
 Open a file:
 
 ```bash
-scribble filename.txt
+scrible filename.txt
 ```
 
 If the file does not exist, Scribble will create it when you save.
