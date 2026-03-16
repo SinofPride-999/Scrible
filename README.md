@@ -26,7 +26,7 @@ Scribble focuses on simplicity and speed while providing useful editing features
 Install directly from Cargo:
 
 ```bash
-cargo install scribble
+cargo install scrible
 ```
 
 ---
