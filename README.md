@@ -3,7 +3,7 @@
 **Scrible** is a minimal terminal text editor written in Rust.
 It is lightweight, keyboard-driven, and designed to run entirely inside the terminal.
 
-Scribble focuses on simplicity and speed while providing useful editing features like highlighting, clipboard actions, and undo/redo.
+Scrible focuses on simplicity and speed while providing useful editing features like highlighting, clipboard actions, and undo/redo.
 
 ---
 
